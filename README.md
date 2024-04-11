@@ -1,4 +1,4 @@
-# Cresit Status
+# Credit Status
 
 Exploratory data analysis on the credit dataset
 
